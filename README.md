@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyan-elahi&label=Profile%20views&color=0e75b6&style=flat" alt="arshiyan-elahi" /> </p>
 
-- 🔭 I’m currently working on **Graphic Designer in Melbourne, Australia**
+- 🔭 I’m currently working on **Upwork & Fiverr**
 
 - 📫 How to reach me **arshiyanelahi84@gmail.com**
 
